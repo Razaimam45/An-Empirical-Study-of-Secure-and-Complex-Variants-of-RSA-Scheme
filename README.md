@@ -1,7 +1,6 @@
 # An-Empirical-Study-of-Secure-and-Complex-Variants-of-RSA-Scheme
 
-##Abstract 
-#####In today’s cyber space, where large amounts of data are being exchanged
+In today’s cyber space, where large amounts of data are being exchanged
 and stored on remote storages, Cryptography plays a major role. Public key cryptography such as RSA is one its effective type, which uses two keys, one for encryption
 and one for decryption. Concerning the recent advancements in the domain of cryptography, many cryptographers have proposed various extended and enhanced form
 of RSA algorithms in order to improve the reliability and efficiency of the information
